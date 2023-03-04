@@ -52,11 +52,10 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-<<<<<<< HEAD
-=======
+
     padding: 20px 80px;
-    padding-bottom: 30px;
->>>>>>> d5daff051a9613fcdb05f8826e7c929b9c828373
+    padding-bottom: 10px;
+
     background: #E3E6F3;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
     z-index: 999;
@@ -64,17 +63,17 @@ body {
     top: 0;
     left: 0;
 }
-<<<<<<< HEAD
+
 
 #header img{
-    margin-left: 50px;
+    margin-left: 20px;
     border-radius: 50px;
     align-items: center;
     justify-content: center;
     padding-top: 10px
 }
 
-=======
+
 #header img{
     border-radius: 50px;
     align-items: center;
@@ -82,17 +81,17 @@ body {
     padding-top: 10px;
     
 }
->>>>>>> d5daff051a9613fcdb05f8826e7c929b9c828373
+
 #navbar {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-bottom: 5%;
-<<<<<<< HEAD
+    padding-bottom: 1%;
+
     margin-right: 20px;
-=======
+
     
->>>>>>> d5daff051a9613fcdb05f8826e7c929b9c828373
+
 }
 
 #navbar li {
@@ -210,16 +209,12 @@ body {
     background-color: #f8aaaa
 }
 
-<<<<<<< HEAD
 
-
-=======
->>>>>>> d5daff051a9613fcdb05f8826e7c929b9c828373
 #product1 {
     text-align: center;
 }
 
-<<<<<<< HEAD
+
 #product1 .pro-container{
     display: flex;
     justify-content: space-around;
@@ -227,11 +222,8 @@ body {
     flex-direction: row;
     flex-wrap: wrap;
     
-
 }
 
-=======
->>>>>>> d5daff051a9613fcdb05f8826e7c929b9c828373
 #product1 .pro {
     width: 23%;
     min-width: 250px;
@@ -283,7 +275,7 @@ body {
 
 }
 
-<<<<<<< HEAD
+
 #product1 .pro .cart {
     width: 40px;
     height: 40px;
@@ -295,8 +287,8 @@ body {
 .icon-container a i {
     color: white; 
     line-height: 2.5;
+}
 
-=======
 #product1 .pro .my-icon{
     width: 40px;
     height: 40px;
@@ -305,5 +297,5 @@ body {
     background-color: #ffffff;
     font-weight: 500;
     color: #088178;
->>>>>>> d5daff051a9613fcdb05f8826e7c929b9c828373
+
 }
